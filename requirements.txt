@@ -3,3 +3,8 @@ pandas
 matplotlib
 seaborn
 ipywidgets
+ipywidgets
+scikit-learn
+langchain
+unstructured
+langchain_community
